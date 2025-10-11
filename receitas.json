@@ -1,0 +1,415 @@
+[
+  {
+    "title": "Pão de abóbora vegano",
+    "time": "40min",
+    "url": "https://www.receiteria.com.br/receita/pao-de-abobora-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/pao-de-abobora-vegano-capa-730x480.png",
+    "description": "Nada melhor do que começar o dia com um bom café da manhã, não é mesmo? E para quem não dispensa um pãozinho caseiro, esse pão de abóbora vegano é a escolha perfeita, pois ele fica macio, saboroso e combina tanto com doces, quanto com salgados."
+  },
+  {
+    "title": "Queijo vegano de batata",
+    "time": "15min",
+    "url": "https://www.receiteria.com.br/receita/queijo-vegano-de-batata/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/queijo-vegano-de-batata-730x480.jpg",
+    "description": "E para acompanhar os seus pãezinhos, que tal um queijo vegano de batata bem cremoso e gostoso? O ingrediente secreto e que dá aquela textura perfeita ao queijo vegetal é o ágar-ágar em pó. Veja a receita completa e aprenda como usar essa maravilha!"
+  },
+  {
+    "title": "Panqueca americana vegana",
+    "time": "20min",
+    "url": "https://www.receiteria.com.br/receita/panqueca-americana-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/panqueca-americana-vegana-730x480.jpg",
+    "description": "Com uma massa fofinha e versátil, essa panqueca americana vegana promete deixar as suas manhãs muito mais gostosas! E aqui, quem faz as vezes do ovo e garante a textura perfeita da massa é o vinagre – não fica com gosto, não se preocupe!"
+  },
+  {
+    "title": "Pudim de chia fit",
+    "time": "5min",
+    "url": "https://www.receiteria.com.br/receita/pudim-de-chia-fit/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/pudim-de-chia-fit-730x480.jpg",
+    "description": "Agora, quem é do time dos docinhos para o café da manhã vai ficar encantando por esse pudim de chia fit. Feito com aveia em flocos, chia, leite vegetal e canela em pó, ele pode ser adoçado com melado de cana, calda de agave ou maple syrup. Você que decide!"
+  },
+  {
+    "title": "Pão vegano de frigideira",
+    "time": "20min",
+    "url": "https://www.receiteria.com.br/receita/pao-vegano-de-frigideira/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/pao-vegano-de-frigideira-8-730x480.jpg",
+    "description": "Agora, quem gosta de praticidade pela manhã, mas não dispensa um pão quentinho pode investir na receita desse pão vegano de frigideira. O legal é que essa massa fica macia e ainda conta com o sabor de temperos como cebolinha e pimenta-do-reino. Confira!"
+  },
+  {
+    "title": "Requeijão vegano com coentro",
+    "time": "10min",
+    "url": "https://www.receiteria.com.br/receita/requeijao-vegano-com-coentro/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/requeijao-vegano-com-coentro-730x480.jpg",
+    "description": "Extremamente cremoso, o requeijão vegano com coentro é ótimo para comer com pães, torradas, queijos ou outros salgados. A base dessa versão é o tofu e aqui você pode incrementar e usar uma versão que seja defumada, fica ainda mais gostoso."
+  },
+  {
+    "title": "Pão vegano com aveia",
+    "time": "40min",
+    "url": "https://www.receiteria.com.br/receita/pao-vegano-com-aveia/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/pao-vegano-com-aveia-730x480.jpeg",
+    "description": "Para quem é mais tradicional, a dica é esse pão vegano com aveia! Mega democrático, ele não leva glúten na composição, o que é ótimo para quem é celíaco. Além disso, o açúcar demerara ajuda a deixar a massa mais leve e com um fundinho delicioso!"
+  },
+  {
+    "title": "Iogurte de coco vegano",
+    "time": "30min",
+    "url": "https://www.receiteria.com.br/receita/iogurte-de-coco-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/iogurte-de-coco-vegano-730x480.jpg",
+    "description": "Para começar o dia com leveza! Você vai precisar só de 3 ingredientes: polpa de coco seco, água de coco e cápsulas de probióticos de origem vegetal. Traga ainda mais sabor para seu café da manhã, combinando o iogurte de coco vegano com frutas e cereais."
+  },
+  {
+    "title": "Iogurte vegano de amêndoas",
+    "time": "20min",
+    "url": "https://www.receiteria.com.br/receita/iogurte-vegano-de-amendoas/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/iogurte-vegano-de-amendoas-730x480.jpg",
+    "description": "Esse iogurte fica com uma consistência mais firme, com o rejuvelac na mistura. Você também poderá usar as tâmaras demolhadas, para adoçar esse creme. Confira o preparo!"
+  },
+  {
+    "title": "Aveioca salgada vegana",
+    "time": "5min",
+    "url": "https://www.receiteria.com.br/receita/aveioca-salgada-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/aveioca-salgada-vegana-730x480.jpg",
+    "description": "Gosta de opções mais leves para o seu café da manhã? Então, que tal provar essa aveioca salgada vegana? A massa é feita com aveia em flocos, chia, temperinhos a gosto e um pouco de água. Já o recheio fica totalmente ao seu critério!"
+  },
+  {
+    "title": "Iogurte grego natural vegano",
+    "time": "15min",
+    "url": "https://www.receiteria.com.br/receita/iogurte-grego-natural-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/iogurte-grego-natural-vegano-730x480.jpg",
+    "description": "Esse iorgurte é perfeito para os apaixonados por cremosidade. Você pode consumir com frutas vermelhas ou granola no café da manhã, ou até mesmo como uma sobremesa. Teste a receita e aproveite!"
+  },
+  {
+    "title": "Overnight oats de prestígio fit e vegana",
+    "time": "15min",
+    "url": "https://www.receiteria.com.br/receita/overnight-oats-de-prestigio-fit-e-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/overnight-oats-de-prestigio-fit-e-vegana-730x480.jpg",
+    "description": "Outra opção doce deliciosa para já começar o dia cheio de disposição, o overnight oats de prestígio fit! Mas lembre-se, você precisa preparar na noite anterior e deixar descansando na geladeira."
+  },
+  {
+    "title": "Grãomelete fermentado",
+    "time": "15min",
+    "url": "https://www.receiteria.com.br/receita/graomelete-fermentado/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/graomelete-fermentado-730x480.jpg",
+    "description": "Com apenas três ingredientes (grão-de-bico, água e sal), você consegue preparar um grãomelete fermentado delicioso e mega nutritivo. Mas atenção, para que a textura fique perfeita, você deve deixar os grãos em um vidro tampado com água de 8 a 24 horas."
+  },
+  {
+    "title": "Waffle sem glúten",
+    "time": "40min",
+    "url": "https://www.receiteria.com.br/receita/waffle-sem-gluten/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/waffle-sem-gluten-1.jpg",
+    "description": "Sem glúten, mas também sem ingredientes de origem animal! Esse é um waffle que além de vegano, é também bastante saudável. Perfeito para um café da manhã reforçado e saboroso na medida certa!"
+  },
+  {
+    "title": "Bolo de carne vegano",
+    "time": "55min",
+    "url": "https://www.receiteria.com.br/receita/bolo-de-carne-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-carne-vegano-1-730x480.jpg",
+    "description": "Para acompanhar o arroz e feijão do dia a dia, que tal um bolo de carne vegano? Feito com lentilha, ele é rico em proteínas, fibras, vitaminas e minerais. Além disso, os temperos usados (chimichurri, páprica doce e tomilho) dão um toque incrível ao prato."
+  },
+  {
+    "title": "Curry de legumes fácil",
+    "time": "30min",
+    "url": "https://www.receiteria.com.br/receita/curry-de-legumes-facil/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/curry-de-legumes-facil-capa-730x480.png",
+    "description": "Uma ótima aposta de mistura para incrementar a sua marmitinha do dia a dia, o curry de legumes fácil é saboroso e fica pronto em meia hora. Tenha em mãos pimentão, cenoura, brócolis e couve-flor. Vale a pena testar em casa!"
+  },
+  {
+    "title": "Salpicão vegano",
+    "time": "30min",
+    "url": "https://www.receiteria.com.br/receita/salpicao-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/salpicao-vegano-capa-730x480.png",
+    "description": "Um prato que é a cara do almoço de domingo com a família, o salpicão é aquele tipo de delícia que todo mundo adora. E nessa versão vegana, o frango desfiado sai de cena e dá lugar à cenoura raladinha. Ficou curioso? Então, confira a receita completa!"
+  },
+  {
+    "title": "Strogonoff de berinjela vegano",
+    "time": "35min",
+    "url": "https://www.receiteria.com.br/receita/strogonoff-de-berinjela-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/strogonoff-de-berinjela-vegano-capa-730x480.png",
+    "description": "Quem gosta de comidas árabes vai ficar encantado por esse strogonoff de berinjela vegano! Aqui, o leite usado é o leite de aveia, mas você pode usar outra versão que agrade mais o seu paladar. Sirva com bastante batata palha e se delicie!"
+  },
+  {
+    "title": "Peixinho da horta assado",
+    "time": "40min",
+    "url": "https://www.receiteria.com.br/receita/peixinho-da-horta-assado/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/peixinho-da-horta-assado-730x480.jpg",
+    "description": "Conhece a planta peixinho da horta? É uma folha muito nutritiva e muito gostosa. Confira essa versão empanada e assada que fica crocante e delicioso."
+  },
+  {
+    "title": "Lasanha de espinafre",
+    "time": "60min",
+    "url": "https://www.receiteria.com.br/receita/lasanha-de-espinafre/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/lasanha-de-espinafre-730x480.jpg",
+    "description": "Extremamente rica em ferro, a lasanha de espinafre é aquele tipo de prato que você não consegue comer apenas um pedaço. Além de ser saborosa, essa versão é liberada para quem é celíaco, pois não leva farinha de trigo."
+  },
+  {
+    "title": "Strogonoff fit vegano",
+    "time": "515min",
+    "url": "https://www.receiteria.com.br/receita/strogonoff-fit-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/strogonoff-fit-vegano-capa-730x480.jpg",
+    "description": "Essa receita de strogonoff fit vegano é deliciosa e muito nutritiva. Os protagonistas dessa receita são o grão-de-bico, o palmito, e os cogumelos frescos. Você pode consumir essa receita com um delicioso arroz soltinho e batata palha. Confira!"
+  },
+  {
+    "title": "Maionese de abacate",
+    "time": "10min",
+    "url": "https://www.receiteria.com.br/receita/maionese-de-abacate/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/maionese-de-abacate-730x480.jpeg",
+    "description": "Ideal para acompanhar as suas saladas do almoço, a maionese de abacate fica mega cremosa e com um sabor incrível. Além da fruta, você também vai precisar de limões, alho, azeite, sal e cheiro-verde – mas se quiser incrementar com outros temperos fique à vontade!"
+  },
+  {
+    "title": "Carne louca vegana",
+    "time": "35min",
+    "url": "https://www.receiteria.com.br/receita/carne-louca-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/carne-louca-vegana-730x480.jpg",
+    "description": "Diferente de tudo o que você já provou, a carne louca vegana é feita com a casca da banana. Ou seja, desperdício zero. E o mais legal é que não fica com o sabor da fruta, mas para isso você deve deixar as cascas de molho na água com vinagre por alguns minutos, ok?"
+  },
+  {
+    "title": "Bacalhoada vegana",
+    "time": "45min",
+    "url": "https://www.receiteria.com.br/receita/bacalhoada-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/bacalhoada-vegana-730x480.jpg",
+    "description": "Ideal para servir naquele almoço com os amigos e familiares que não consomem ingredientes de origem animal. Dica: prepare os ingredientes da bacalhoada com antecedência e deixe-os marinando em um tempero à base de azeite, alho, limão e ervas frescas. Isso ajudará a intensificar o sabor."
+  },
+  {
+    "title": "Bife de frango vegano",
+    "time": "50min",
+    "url": "https://www.receiteria.com.br/receita/bife-de-frango-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/bife-de-frango-vegano-730x480.jpg",
+    "description": "A foto engana muito, não é mesmo? Só de bater o olho você não diz que é um bife vegetal, mas acredite, esse bife de frango vegano é feito com tofu! E o segredo para criar essa camada crocante deliciosa é empanar bem em um mix de farinhas."
+  },
+  {
+    "title": "Escondidinho de carne de soja",
+    "time": "50min",
+    "url": "https://www.receiteria.com.br/receita/escondidinho-de-carne-de-soja/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/escondidinho-de-carne-de-soja-00-730x480.jpg",
+    "description": "Uma receita bem clássica na versão vegana, esse escondidinho de carne de soja fica cremoso e é uma ótima ideia de prato principal para o seu almoço. E aqui, a batata inglesa sai de cena e dá lugar à batata doce. Irresistível, não é mesmo?"
+  },
+  {
+    "title": "Empadão de palmito vegano",
+    "time": "110min",
+    "url": "https://www.receiteria.com.br/receita/empadao-de-palmito-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/kibe-vegano-730x480.jpg",
+    "description": "Com uma massa podre deliciosa e um recheio pra lá de cremoso, o empadão de palmito vegano é aquele tipo de lanche que simplesmente não tem erro. Para o recheio, use uma castanha-de-caju fresquinha e de boa qualidade, ok? Faz toda a diferença no resultado final."
+  },
+  {
+    "title": "Pão de queijo vegano",
+    "time": "30min",
+    "url": "https://www.receiteria.com.br/receita/pao-de-queijo-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/empadao-de-palmito-vegano-capa-730x480.png",
+    "description": "Sim! É totalmente possível fazer um pão de queijo vegano delicioso e que fica com aquela textura de puxa puxa que todo mundo adora. E para isso, o ingrediente secreto que não pode faltar é a batata inglesa, que deve ser bem cozida e amassada até virar um purê!"
+  },
+  {
+    "title": "Panqueca vegana",
+    "time": "30min",
+    "url": "https://www.receiteria.com.br/receita/panqueca-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/pao-de-queijo-vegano-730x480.jpeg",
+    "description": "Com uma massa levinha e gostosa, a panqueca vegana funciona como um ótimo lanche tanto para quem gosta de usar recheios salgados, quanto quem prefere opções doces. Você pode incrementar com temperos ou essência de baunilha!"
+  },
+  {
+    "title": "Cachorro quente vegano",
+    "time": "15min",
+    "url": "https://www.receiteria.com.br/receita/cachorro-quente-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/panqueca-vegana-730x480.jpeg",
+    "description": "Um lanche mega tradicional no mundo todo, o cachorro quente tem as suas mais variadas versões. E é claro que os veganos não poderiam ficar de fora! Sem ingredientes de origem animal, a salsicha desse lanche é 100% vegetal e 100% deliciosa. Confira!"
+  },
+  {
+    "title": "Kibe vegano",
+    "time": "100min",
+    "url": "https://www.receiteria.com.br/receita/kibe-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/cachorro-quente-vegano-e1685039595291-730x480.jpg",
+    "description": "Essa receita é para aqueles que adoram comida árabe e querem uma opção sem ingredientes de origem animal. O kibe vegano é muito saboroso e crocante e fica muito parecido com a receita clássica. Teste essa receita e experimente!"
+  },
+  {
+    "title": "Sanduíche de atum vegano",
+    "time": "10min",
+    "url": "https://www.receiteria.com.br/receita/sanduiche-de-atum-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/sanduiche-de-atum-vegano-730x480.jpg",
+    "description": "Diferente, o sanduíche de atum vegano é na verdade feito com grão-de-bico, que confere uma textura incrível ao recheio. Além disso, a alga nori é a responsável pelo sabor similar ao peixe marinho. Então, é muito importante usar uma alga bem boa, viu?"
+  },
+  {
+    "title": "Carne de jaca",
+    "time": "75min",
+    "url": "https://www.receiteria.com.br/receita/carne-de-jaca/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/carne-de-japa-730x480.jpg",
+    "description": "Em busca de um recheio capaz de substituir a proteína animal em preparos diversos? A carne de jaca é a nossa sugestão! Use para rechear tortas, assim como salgados de todos os tipos. Seus lanches ficarão deliciosos!"
+  },
+  {
+    "title": "Falafel assado",
+    "time": "25min",
+    "url": "https://www.receiteria.com.br/receita/falafel-assado/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/falafel-assado-capa-730x480.jpeg",
+    "description": "Queridinho entre quem é vegano, o falafel é uma iguaria culinária do Oriente Médio e consiste, basicamente, em bolinhos feitos de grão-de-bico moído e temperado com ervas, especiarias e alho. Ele é conhecido por sua textura crocante por fora e macia por dentro. Confira!"
+  },
+  {
+    "title": "Hamburgão vegano sem glúten",
+    "time": "40min",
+    "url": "https://www.receiteria.com.br/receita/hamburgao-vegano-sem-gluten/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/hamburgao-vegano-sem-gluten-730x480.jpg",
+    "description": "Um lanchinho delicioso e que promete agradar veganos e celíacos, esse hamburgão tem uma massa feita à base de batata-doce com farinha de arroz. Já o recheio é feito com proteína de soja texturizada e temperinhos diversos. Fica mega gostoso!"
+  },
+  {
+    "title": "Bauru vegano",
+    "time": "85min",
+    "url": "https://www.receiteria.com.br/receita/bauru-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/bauru-vegano-730x480.jpg",
+    "description": "Um dos lanches brasileiros mais populares em todo o território nacional! O bauru pode ganhar diferentes versões, como é o caso dessa opção vegana, feita com uma massa caseira incrível! Para o recheio a dica é investir em opções diversas, como fatias de abacaxi grelhado, folhas de rúcula ou agrião, fatias de berinjela grelhada ou cogumelos Portobello!"
+  },
+  {
+    "title": "Shawarma vegano",
+    "time": "120min",
+    "url": "https://www.receiteria.com.br/receita/shawarma-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/shawarma-vegano-00-e1683916642440-730x480.jpg",
+    "description": "A origem do shawarma é um tanto quanto disputada, mas muitos acreditam que tem raízes na culinária turca e que foi popularizado no Oriente Médio. Esse lanche delicioso também pode ser encontrado em várias formas em diferentes partes do mundo, como é o caso dessa versão vegana!"
+  },
+  {
+    "title": "Smash burguer vegano",
+    "time": "20min",
+    "url": "https://www.receiteria.com.br/receita/smash-burguer-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/smash-burguer-vegano-730x480.jpg",
+    "description": "Até quem torce o nariz para comidas veganas vai saborear esse smash burguer vegano suspirando! Feito à base de feijão preto e proteína de soja, ele ainda conta com um ingredientes pra lá de especial: a fumaça em pó!"
+  },
+  {
+    "title": "Kafta de forno vegana",
+    "time": "95min",
+    "url": "https://www.receiteria.com.br/receita/kafta-de-forno-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/kafta-de-forno-vegana-capa-730x480.png",
+    "description": "A kafta pode ganhar diferentes versões de acordo com a região do globo ou gosto pessoal. E para quem não come carne, essa versão de forno vegana é a mais indicada, pois é deliciosa e feita com proteína de soja."
+  },
+  {
+    "title": "Molho Alfredo vegano",
+    "time": "35min",
+    "url": "https://www.receiteria.com.br/receita/molho-alfredo-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/molho-alfredo-vegano-730x480.jpg",
+    "description": "A história por trás do molho Alfredo remonta ao início do século XX, quando Alfredo di Lelio, um restaurateur italiano, criou a receita em sua trattoria em Roma para agradar sua esposa, que estava grávida e com pouco apetite. Hoje, o molho é sucesso no mundo todo e tem diferentes versões, como é o caso dessa opção vegana deliciosa!"
+  },
+  {
+    "title": "Batata gratinada vegana",
+    "time": "50min",
+    "url": "https://www.receiteria.com.br/receita/batata-gratinada-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/batata-gratinada-vegana-730x480.jpg",
+    "description": "Em busca de um jantar fácil, delicioso e bem clássico? Então, invista nessa batata gratinada vegana. Aqui, o molho branco é feito com os seguintes ingredientes: tofu, azeite, alho, levedura nutricional, água, polvilho doce, sal e pimenta."
+  },
+  {
+    "title": "Nhoque de batatas vegano",
+    "time": "30min",
+    "url": "https://www.receiteria.com.br/receita/nhoque-de-batatas-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/nhoque-vegano-1-730x480.jpg",
+    "description": "Um prato delicioso e pra nonna nenhuma botar defeito! O nhoque de batatas vegano é feito com apenas cinco ingredientes: batatas-inglesas, sal, azeite, farinha de trigo e temperos. A dica é servir com um molho à bolonhesa de carne de soja!"
+  },
+  {
+    "title": "Risoto de pimentão assado",
+    "time": "60min",
+    "url": "https://www.receiteria.com.br/receita/risoto-de-pimentao-assado/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/risoto-de-pimentao-assado-730x480.jpg",
+    "description": "Bem no estilo comfort food, o risoto de pimentão assado tem um toque refinado incrível! E sabe o que faz toda a diferença no sabor desse prato? O caldo de legumes 100% caseiro. Ou seja, nada de usar aquela versão em tablete, ok?"
+  },
+  {
+    "title": "Mac and cheese vegano",
+    "time": "25min",
+    "url": "https://www.receiteria.com.br/receita/mac-and-cheese-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/mac-and-cheese-vegano-730x480.jpg",
+    "description": "Quem gosta de comidinhas dos EUA vai adorar esse mac and cheese vegano. Muito parecida com a receita original, essa versão é preparada com castanha-de-caju demolhada e batida. Já o sabor de queijo fica por conta da levedura nutricional!"
+  },
+  {
+    "title": "Yakisoba vegano com proteína de soja",
+    "time": "65min",
+    "url": "https://www.receiteria.com.br/receita/yakisoba-vegano-com-proteina-de-soja/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/yakisoba-vegano-1-730x480.jpg",
+    "description": "Se você está com um tempinho a mais para fazer o seu jantar, então que tal apostar em um prato chinês que todo mundo adora? Sem ingredientes de origem animal, o yakisoba vegano com proteína de soja fica incrível e vai agradar os mais variados gostos e paladares."
+  },
+  {
+    "title": "Batata assada com catupiry e bacon veganos",
+    "time": "50min",
+    "url": "https://www.receiteria.com.br/receita/batata-assada-com-catupiry-e-bacons-veganos/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/batata-assada-com-catupiry-e-bacon-veganos-730x480.jpg",
+    "description": "Sabe aquelas jantinhas aconchegantes e que parecem um abraço quentinho? Pois essa batata assada com catupiry e bacon veganos é uma delas! O queijo cremoso tradicional ganha uma nova versão feita com inhame. Já a carne de porco frita é feita à base de proteína de soja, viu?"
+  },
+  {
+    "title": "Guioza de legumes",
+    "time": "90min",
+    "url": "https://www.receiteria.com.br/receita/guioza-de-legumes/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/guioza-de-legumes-e1683638473140-730x480.jpg",
+    "description": "A origem exata dos guiozas é um pouco debatida, mas eles têm uma longa história na China, onde são consumidos há séculos. Hoje, essa delícia é apreciada no mundo todo e ganha diferentes versões, como essa recheada com legumes e 100% vegana!"
+  },
+  {
+    "title": "Sushi vegano",
+    "time": "50min",
+    "url": "https://www.receiteria.com.br/receita/sushi-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/sushi-vegano-00-720x480.jpg",
+    "description": "Que tal fazer a noite de comidas japonesas aí na sua casa e ainda agradar todo mundo? Vegano, esse sushi recebe uma marinada deliciosa de shoyu com sumo de gengibre, alho em pó, suco de limão e cenoura cozida. Uma delícia sem igual!"
+  },
+  {
+    "title": "Mousse de maracujá vegano",
+    "time": "40min",
+    "url": "https://www.receiteria.com.br/receita/mousse-de-maracuja-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/mousse-de-maracuja-vegano-730x480.jpg",
+    "description": "Com uma cremosidade de outro planeta, essa mousse de maracujá vegano conquista até quem não é muito chegado em inovações culinárias. E não se preocupe, apesar de ser preparado com inhame, não fica com sabor do tubérculo, ok?"
+  },
+  {
+    "title": "Bolo de milho sem lactose sem glúten e vegano",
+    "time": "30min",
+    "url": "https://www.receiteria.com.br/receita/bolo-de-milho-sem-lactose-sem-gluten-e-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-milho-sem-lactose-sem-gluten-e-vegano-730x480.jpeg",
+    "description": "Mega democrático, o bolo de milho sem lactose sem glúten e vegano pode ser apreciado sem medo por quem é celíaco e/ou não consome ingredientes de origem animal. Aqui, a farinha de linhaça faz o papel do ovo, deixando a massa fofinha e macia."
+  },
+  {
+    "title": "Bolo de cenoura vegano sem glúten",
+    "time": "90min",
+    "url": "https://www.receiteria.com.br/receita/bolo-de-cenoura-vegano-sem-gluten/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-cenoura-vegano-sem-gluten-1-730x480.jpg",
+    "description": "Com gostinho de casa de vó, mas com alguns toques mais modernos, o bolo de cenoura vegano sem glúten é feito com ingredientes como fubá amarelo, farinha de linhaça, açúcar demerara, óleo de coco e manteiga vegana. Teste aí na sua casa e aproveite!"
+  },
+  {
+    "title": "Biscoitos amanteigados vegano e sem glúten",
+    "time": "60min",
+    "url": "https://www.receiteria.com.br/receita/biscoitos-amanteigados-vegano-e-sem-gluten/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/biscoitos-amanteigados-vegano-e-sem-gluten-730x480.jpg",
+    "description": "Outro docinho bem nostálgico, os biscoitos amanteigados vegano e sem glúten. Eles são muito mais fáceis de fazer do que você imagina. Para dar o ponto perfeito da massa, você vai precisar usar farinha de arroz e amido de milho."
+  },
+  {
+    "title": "Pavê duplo vegano",
+    "time": "45min",
+    "url": "https://www.receiteria.com.br/receita/pave-duplo-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/pave-duplo-vegano-730x480.jpg",
+    "description": "Até o tio do pavê vai ficar sem palavras ao ver esse maravilhoso pavê duplo vegano! Feito com um creme de chocolate e um branco, ele tem como base uma bolachinha de maisena vegana crocante. Não tem quem resista!"
+  },
+  {
+    "title": "Danoninho de morango vegano",
+    "time": "5min",
+    "url": "https://www.receiteria.com.br/receita/danoninho-de-morango-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/danoninho-de-morango-vegano-730x480.jpg",
+    "description": "Para matar a saudade da infância ou fazer a alegria da criançada, o danoninho de morango vegano é a melhor indicação! No lugar do tradicional leite de vaca, você vai utilizar inhame, que dá uma consistência incrível ao doce, mas sem adicionar um sabor estranho!"
+  },
+  {
+    "title": "Baked oats de cenoura vegano",
+    "time": "40min",
+    "url": "https://www.receiteria.com.br/receita/baked-oats-de-cenoura-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/baked-oats-de-cenoura-vegano-730x480.jpg",
+    "description": "A baked oats é uma receita popular que envolve a mistura de aveia com ingredientes adicionais, como leite, frutas, ovos, iogurte e açúcar. E para os veganos, essa versão de cenoura é uma excelente aposta. Confira!"
+  },
+  {
+    "title": "Cheesecake vegana de abóbora e cacau",
+    "time": "70min",
+    "url": "https://www.receiteria.com.br/receita/cheesecake-vegana-de-abobora-e-cacau/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/cheesecake-vegana-de-abobora-e-cacau-730x480.jpg",
+    "description": "Quem gosta de doces refinados e bem no estilo de confeitarias famosas, vai ficar encantado por essa cheesecake vegana de abóbora e cacau. Já separe um tempo extra do seu dia, pois ela é mais demorada de fazer, ok? Mas acredite, cada minuto vale a pena!"
+  },
+  {
+    "title": "Canjica vegana com coco ralado",
+    "time": "45min",
+    "url": "https://www.receiteria.com.br/receita/canjica-vegana-com-coco-ralado/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/canjica-vegana-com-coco-ralado-730x480.jpg",
+    "description": "Bem no estilo quitutes juninos, a canjica vegana com coco ralado é liberada para todo mundo. Feita com leite de coco culinário e outro leite vegetal da sua preferência, ela fica cremosa no ponto certo. Capriche na canela em pó e, se quiser, adicione um pouco de cravo em pó!"
+  },
+  {
+    "title": "Sorvete vegano",
+    "time": "20min",
+    "url": "https://www.receiteria.com.br/receita/sorvete-vegano/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/sorvete-vegano-730x480.jpg",
+    "description": "Com os dias quentes de verão nada melhor do que um sorvete geladinho pra mandar o calor embora, não é mesmo? À base de leite condensado vegetal, essa delícia vegana tem um sabor incrível de baunilha com rum. O segredo para manter a consistência é usar um bom emulsificante."
+  },
+  {
+    "title": "Torta de morango vegana",
+    "time": "145min",
+    "url": "https://www.receiteria.com.br/receita/torta-de-morango-vegana/",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/torta-de-morango-vegana-00-730x480.jpg",
+    "description": "Com uma base de castanhas-de-caju e um recheio que leva leite de amêndoas e essência de baunilha, essa torta apresenta uma combinação diversa de sabores. A cobertura fica por conta da geleia de morango, que traz aquele docinho todo especial à receita!"
+  }
+]
