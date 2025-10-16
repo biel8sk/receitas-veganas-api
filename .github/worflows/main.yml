@@ -1,0 +1,52 @@
+# Nome do workflow
+name: Build and Deploy to Cloud Run
+
+# Gatilho pra executar sempre no push
+on:
+  push:
+    branches: main
+      -main
+
+# Variáveis de ambiente para utilizar ao executar
+env:
+  PROJECT_ID: 'app-receitas-sre'
+  REGION: 'southamerica-east1'
+  REPO_NAME: 'app-receitas-repo'
+
+# Tarefas a serem executadas
+jobs:
+  deploy: 
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps: 
+      # Clona o repositório para a máquina do GitHub Actions
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Autenticação com o gcp
+      - name: Authentication on GCP
+        uses: 'google-github-actions/auth@v1'
+        with:
+          credentials_json: '${{ secrets.GCP_API_KEY }}'
+
+      # Configuração do docker 
+      - name: Configure docker
+        run : gcloud auth configure-docker ${{ env.REGION }}-docker.pkg.dev
+
+      # Construção da imagem do docker
+      - name: Build Docker image
+        run: docker build -t ${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPO_NAME }}/app-receitas:latest .
+
+      # Enviar para o artifact registry
+      - name: Push image
+        run: docker push ${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPO_NAME }}/app-receitas:latest 
+
+      # Faz o deploy dentro do cloud run
+      - name: Deploy to Cloud Run 
+        uses: 'google-github-actions/deploy-cloudrun@v1'
+        with:
+          service: 'app-receitas-servisse'
+          region: ${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPO_NAME }}/app-receitas:latest
+
+
