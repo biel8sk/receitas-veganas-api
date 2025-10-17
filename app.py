@@ -23,7 +23,7 @@ def health_check():
 
 @app.route('/')
 def home():
-    """home end poit"""
+    """home end point"""
     receitas = carregar_receitas()
     return jsonify({"status": "ok"}), 200
 
